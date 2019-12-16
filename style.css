@@ -3,21 +3,16 @@ body {
 }
 h1 {
     background-color: darkgreen;
-    color: floralwhite;
 }
 .tekst1 {
     background-color: darkorange;
-    color: rgb(42, 26, 116);
 }
 h2 {
     background-color: darkorchid;
-    color: gold;
 }
 .tekst2 {
     background-color: darkred;
-    color: rgb(72, 255, 0);
 }
 ol {
     background-color: darkturquoise;
-    color: indigo;
 }
